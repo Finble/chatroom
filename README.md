@@ -8,6 +8,6 @@ Author: Elaine Finn
 Dependencies: "express": "^4.13.3", "moment": "^2.14.1", "socket.io": "^1.3.7"
 
 
-Deployed onto heroku: TBC
+Deployed onto heroku: https://trainingchatroom.herokuapp.com
 
 ```
