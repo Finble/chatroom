@@ -5,10 +5,31 @@
     align-items: center;
 }
 
+.heading {
+    margin-left: 50px;
+    margin-top: 80px;
+    text-align: left;
+    color: white;
+}
+
+.footer {
+    text-align: center;
+    color: white;
+}
+
 h1 {
-    margin: 24px 0; /* 24px = above + below, o = left + right */
+    margin: 24px 0; 
 }
 
 .messages p {
     margin: 6px 0;
+}
+
+.well {
+    margin-top: 35px;
+    background-color: rgba(245, 245, 245, 0.5);
+}
+
+.text-center {
+    color: dodgerblue;
 }
